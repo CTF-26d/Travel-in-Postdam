@@ -1,2 +1,2 @@
-# Travel-in-Postdam
-Touristic insights for traveling in Postdam
+# Travel-in-Potsdam
+Touristic insights for traveling in Potsdam
